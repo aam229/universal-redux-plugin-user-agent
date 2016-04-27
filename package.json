@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aam229/universal-redux-plugins.git"
+    "url": "git+https://github.com/aam229/universal-redux-plugin-user-agent.git"
   },
   "homepage": "git+https://github.com/aam229/univeral-redux-plugin-user-agent",
   "main": "lib/index.js",
@@ -36,14 +36,13 @@
     "eslint-plugin-react": "3.7.1"
   },
   "peerDependencies": {
-    "universal-redux": "^3.0.0-rc21",
-    "react": "^0.14.3"
+    "universal-redux": "^3.0.0-rc21"
   },
   "engines": {
     "node": ">=4.1.1",
     "npm": ">=3.3.12"
   },
   "bugs": {
-    "url": "https://github.com/aam229/univeral-redux-plugin-user-agent"
+    "url": "https://github.com/aam229/universal-redux-plugin-user-agent"
   }
 }
